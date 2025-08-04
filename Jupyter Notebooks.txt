@@ -1,0 +1,4 @@
+> CMD
+E:
+cd OneDrive\Textbox\Dataclair
+jupyter notebook
